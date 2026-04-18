@@ -1,8 +1,8 @@
 # A/B Testing Analysis Python Project
 
 ## Overview
-
 This project analyzes an A/B test conducted on a webpage to compare conversion rates between two variants.
+This Project is performend on Google Colab (browsing site)
 ---
 
 ## Dataset
