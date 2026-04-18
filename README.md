@@ -44,7 +44,8 @@ This Project is performend on Google Colab (browsing site)
 
 ## Visuals
 
-![conversion Rate ](image.png)
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/e5424334-ab71-4c41-9079-8083c8805403" />
+
 
 ## Conclusion
 
